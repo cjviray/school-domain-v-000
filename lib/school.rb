@@ -19,7 +19,8 @@ class school
     @roster[grade] 
   end 
   
-  roster.sort.
+  def sort
+    school.each do 
   
   
   
