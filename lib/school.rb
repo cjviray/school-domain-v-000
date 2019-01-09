@@ -24,4 +24,5 @@ class school
       name.sort! #{|a,b| a <=> b}
     end
   end 
+  
  end 
