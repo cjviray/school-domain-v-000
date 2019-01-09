@@ -15,7 +15,9 @@ class school
       roster 
   end 
   
-  
+  def grade
+    @grade = grade 
+  end 
   
   
   
