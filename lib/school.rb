@@ -16,4 +16,10 @@ class school
   end 
   
   
+  
+  
+  
+  
+  
+  
  end 
