@@ -19,7 +19,7 @@ class school
     @roster[grade] 
   end 
   
-  
+  roster.sort.
   
   
   
