@@ -15,7 +15,7 @@ class school
       roster 
   end 
   
-  def grade
+  def grade(grade)
     @grade = grade 
   end 
   
