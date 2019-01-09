@@ -23,5 +23,5 @@ class school
     @roster.each do |grade, name|
       name.sort! #{|a,b| a <=> b}
     end
-
+  end 
  end 
